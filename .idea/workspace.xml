@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0335f39b-6a7f-47d4-a0e3-8083805e2d71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cOZPnakYhzoR2DT1g7lNJvRlR3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/stepDefinition" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stepDefinition" />
+      <recent name="pageObjects" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\GtplBank\src\test\java\chrome83" />
+      <recent name="C:\Users\User\IdeaProjects\GtplBank\src\test\java\chrome" />
+      <recent name="C:\Users\User\IdeaProjects\GtplBank\src\test\java\stepDefinition" />
+      <recent name="C:\Users\User\IdeaProjects\GtplBank\src\test\Feature" />
+      <recent name="C:\Users\User\IdeaProjects\GtplBank\src\test\java\utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: gtplNewAccount">
+    <configuration name="Feature: gtplDeleteCustomer" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/gtplDeleteCustomer.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="GtplBank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: gtplDeleteCustomer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: gtplEditCustomer" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/gtplEditCustomer.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="GtplBank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: gtplEditCustomer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: gtplNewAccount" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/gtplNewAccount.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="GtplBank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: gtplNewAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: gtplNewCustomer" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/gtplNewCustomer.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="GtplBank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: gtplNewCustomer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: sample" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/sample.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="GtplBank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="FILE_PATH" value="C:\Users\User\IdeaProjects\GtplBank\src\test\Feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="GtplBank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: gtplNewAccount" />
+        <item itemvalue="Cucumber java.Feature: gtplEditCustomer" />
+        <item itemvalue="Cucumber java.Feature: gtplNewCustomer" />
+        <item itemvalue="Cucumber java.Feature: gtplDeleteCustomer" />
+        <item itemvalue="Cucumber java.Feature: sample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0335f39b-6a7f-47d4-a0e3-8083805e2d71" name="Default Changelist" comment="" />
+      <created>1590401578644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590401578644</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590405059864">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728@0.0.1024.728" timestamp="1590405059864" />
+    <state x="250" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590529887001">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="250" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.728@0.0.1024.728" timestamp="1590529887001" />
+    <state x="292" y="122" key="FileChooserDialogImpl" timestamp="1590843031004">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="292" y="122" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1590843031004" />
+    <state width="1025" height="672" key="GridCell.Tab.0.bottom" timestamp="1591223174604">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1025" height="672" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1591223174604" />
+    <state width="1025" height="672" key="GridCell.Tab.0.center" timestamp="1591223174603">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1025" height="672" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1591223174603" />
+    <state width="1025" height="672" key="GridCell.Tab.0.left" timestamp="1591223174603">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1025" height="672" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1591223174603" />
+    <state width="1025" height="672" key="GridCell.Tab.0.right" timestamp="1591223174604">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="1025" height="672" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1591223174604" />
+    <state x="264" y="294" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1590843034489">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="264" y="294" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1590843034489" />
+    <state x="168" y="162" key="run.anything.popup" timestamp="1590955745987">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="168" y="162" key="run.anything.popup/0.0.1024.728@0.0.1024.728" timestamp="1590955745987" />
+  </component>
+</project>
