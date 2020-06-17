@@ -5,3 +5,5 @@ Feature: To test Edit Account webpage
     And I access "<AccNo>"
     Then Edit Acc goes to demo guru title page
     Examples:
+    |AccNo|
+    |345678|
