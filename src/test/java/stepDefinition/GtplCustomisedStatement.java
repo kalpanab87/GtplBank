@@ -22,8 +22,8 @@ public class GtplCustomisedStatement {
     }
 
     @When("^I access the elements \"([^\"]*)\",\"([^\"]*)\",\"([^\"]*)\",\"([^\"]*)\",\"([^\"]*)\"$")
-    public void iAccessTheElements(String arg0, String arg1, String arg2, String arg3, String arg4){
-        GtplCustomisedStatementPage.gtplCustomisedStatement(arg0, arg1, arg2);
+    public void iAccessTheElements(String arg0, String arg1, String arg2,String arg3,String arg4){
+        GtplCustomisedStatementPage.gtplCustomisedStatement(arg0, arg1, arg2,arg3,arg4);
     }
 
     @Then("^I go to the next webpage$")

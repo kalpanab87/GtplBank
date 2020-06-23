@@ -6,4 +6,6 @@ Feature: To test Edit Account webpage
     Then Edit Acc goes to demo guru title page
     Examples:
     |AccNo|
-    |345678|
+    |34567845|
+    |34567908|
+    |23456790|

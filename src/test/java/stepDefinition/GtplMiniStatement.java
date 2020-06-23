@@ -8,6 +8,7 @@ import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import pageObjects.GtplMiniStatementPage;
 
 import static stepDefinition.Hooks.driver;
@@ -15,12 +16,19 @@ import static stepDefinition.Hooks.driver;
 public class GtplMiniStatement {
     @When("^I access mini statement link in gtpl bank home page$")
        public void Iaccessministatementlinkingtplbankhomepage(){
-            driver.findElement(By.xpath("//a[@href='MiniStatementInput.php']")).click();
+        try {
+            Thread.sleep(3000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        driver.navigate().to("http://demo.guru99.com/V1/html/MiniStatementInput.php");
+            PageFactory.initElements(driver, GtplMiniStatementPage.class);
        }
 
 
     @And("^I enter \"([^\"]*)\" and click submit in mini statement$")
     public void iEnterAndClickSubmitInMiniStatement(String arg0)  {
+
         GtplMiniStatementPage.gtplMiniStatement(arg0);
     }
 

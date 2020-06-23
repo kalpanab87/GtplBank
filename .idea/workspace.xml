@@ -2,22 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0335f39b-6a7f-47d4-a0e3-8083805e2d71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Feature/gtplCustomisedStatement.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Feature/gtplDeleteAccount.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Feature/gtplMiniStatement.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/GtplCustomisedStatementPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/GtplDeleteAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/GtplEditAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/GtplMiniStatementPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplCustomisedStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplDeleteAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplEditAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplMiniStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Feature/gtplCustomisedStatement.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Feature/gtplCustomisedStatement.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Feature/gtplDeleteAccount.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Feature/gtplDeleteAccount.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/Feature/gtplEditAccount.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Feature/gtplEditAccount.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/GtplCustomisedStatementPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/GtplCustomisedStatementPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/GtplDeleteAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/GtplDeleteAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/GtplEditAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/GtplEditAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/GtplMiniStatementPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/GtplMiniStatementPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplCustomisedStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplCustomisedStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplDeleteAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplDeleteAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplEditAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplEditAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplMiniStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplMiniStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplNewAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/GtplNewAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/GtplCustomisedStatementPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/GtplCustomisedStatementPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/GtplDeleteAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/GtplDeleteAccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/GtplEditAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/GtplEditAccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/GtplMiniStatementPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pageObjects/GtplMiniStatementPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinition/GtplCustomisedStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinition/GtplCustomisedStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinition/GtplDeleteAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinition/GtplDeleteAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinition/GtplEditAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinition/GtplEditAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinition/GtplMiniStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinition/GtplMiniStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinition/GtplNewAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinition/GtplNewAccount.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,25 +67,7 @@
       <recent name="C:\Users\User\IdeaProjects\GtplBank\src\test\java\utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: gtplCustomisedStatement">
-    <configuration name="Feature: gtplCustomisedStatement" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/gtplCustomisedStatement.feature" />
-      <option name="GLUE" value="stepDefinition" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="GtplBank" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: gtplCustomisedStatement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Cucumber java.Feature: gtplMiniStatement">
     <configuration name="Feature: gtplDeleteAccount" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/gtplDeleteAccount.feature" />
@@ -115,6 +104,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Feature: gtplEditCustomer" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/gtplEditCustomer.feature" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="GtplBank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: gtplEditCustomer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: gtplMiniStatement" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/gtplMiniStatement.feature" />
@@ -133,14 +140,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: gtplNewAccount" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: To Verify the page elements of the web page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/gtplNewAccount.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/Feature/gtplCustomisedStatement.feature" />
       <option name="GLUE" value="stepDefinition" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="GtplBank" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: gtplNewAccount" />
+      <option name="NAME_FILTER" value="^To Verify the page elements of the web page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^To Verify the page elements of the web page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: To Verify the page elements of the web page" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -162,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Feature: gtplCustomisedStatement" />
         <item itemvalue="Cucumber java.Feature: gtplMiniStatement" />
         <item itemvalue="Cucumber java.Feature: gtplDeleteAccount" />
         <item itemvalue="Cucumber java.Feature: gtplEditAccount" />
-        <item itemvalue="Cucumber java.Feature: gtplNewAccount" />
+        <item itemvalue="Cucumber java.Scenario: To Verify the page elements of the web page" />
+        <item itemvalue="Cucumber java.Feature: gtplEditCustomer" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +212,14 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="250" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.728@0.0.1024.728" timestamp="1590529887001" />
+    <state x="484" y="233" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592669894425">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="233" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1592669894425" />
+    <state x="267" y="73" key="#xdebugger.evaluate" timestamp="1592765324807">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="267" y="73" key="#xdebugger.evaluate/0.0.1024.728@0.0.1024.728" timestamp="1592765324807" />
     <state x="179" y="0" key="CommitChangelistDialog2" timestamp="1591829122504">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
@@ -212,38 +228,62 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="292" y="122" key="FileChooserDialogImpl/0.0.1024.728@0.0.1024.728" timestamp="1590843031004" />
-    <state width="1025" height="672" key="GridCell.Tab.0.bottom" timestamp="1592344644309">
+    <state width="1022" height="616" key="GridCell.Tab.0.bottom" timestamp="1592868343645">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="1025" height="672" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1592344644309" />
-    <state width="1367" height="672" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591918964772" />
-    <state width="1025" height="672" key="GridCell.Tab.0.center" timestamp="1592344644309">
+    <state width="1022" height="616" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1592868343645" />
+    <state width="1367" height="616" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592754925581" />
+    <state width="1022" height="616" key="GridCell.Tab.0.center" timestamp="1592868343645">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="1025" height="672" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1592344644309" />
-    <state width="1367" height="672" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591918964772" />
-    <state width="1025" height="672" key="GridCell.Tab.0.left" timestamp="1592344644309">
+    <state width="1022" height="616" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1592868343645" />
+    <state width="1367" height="616" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592754925581" />
+    <state width="1022" height="616" key="GridCell.Tab.0.left" timestamp="1592868343645">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="1025" height="672" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1592344644309" />
-    <state width="1367" height="672" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591918964771" />
-    <state width="1025" height="672" key="GridCell.Tab.0.right" timestamp="1592344644309">
+    <state width="1022" height="616" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1592868343645" />
+    <state width="1367" height="616" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592754925581" />
+    <state width="1022" height="616" key="GridCell.Tab.0.right" timestamp="1592868343645">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state width="1025" height="672" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1592344644309" />
-    <state width="1367" height="672" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591918964772" />
+    <state width="1022" height="616" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1592868343645" />
+    <state width="1367" height="616" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592754925581" />
+    <state width="981" height="214" key="GridCell.Tab.1.bottom" timestamp="1592767150751">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="214" key="GridCell.Tab.1.bottom/0.0.1024.728@0.0.1024.728" timestamp="1592767150751" />
+    <state width="1323" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592674345153" />
+    <state width="981" height="214" key="GridCell.Tab.1.center" timestamp="1592767150751">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="214" key="GridCell.Tab.1.center/0.0.1024.728@0.0.1024.728" timestamp="1592767150751" />
+    <state width="1323" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592674345153" />
+    <state width="981" height="214" key="GridCell.Tab.1.left" timestamp="1592767150750">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="214" key="GridCell.Tab.1.left/0.0.1024.728@0.0.1024.728" timestamp="1592767150750" />
+    <state width="1323" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592674345152" />
+    <state width="981" height="214" key="GridCell.Tab.1.right" timestamp="1592767150751">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="214" key="GridCell.Tab.1.right/0.0.1024.728@0.0.1024.728" timestamp="1592767150751" />
+    <state width="1323" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592674345153" />
     <state x="104" y="100" key="Vcs.Push.Dialog.v2" timestamp="1591829134473">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="104" y="100" key="Vcs.Push.Dialog.v2/0.0.1024.728@0.0.1024.728" timestamp="1591829134473" />
+    <state x="234" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592674022239">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="234" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1592674022239" />
     <state x="264" y="294" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1590843034489">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="264" y="294" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1590843034489" />
-    <state x="224" y="162" width="672" height="677" key="run.anything.popup" timestamp="1591915045056">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="168" y="162" key="run.anything.popup" timestamp="1592431708112">
+      <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="168" y="162" key="run.anything.popup/0.0.1024.728@0.0.1024.728" timestamp="1590955745987" />
+    <state x="168" y="162" key="run.anything.popup/0.0.1024.728@0.0.1024.728" timestamp="1592431708112" />
     <state x="224" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591915045056" />
   </component>
 </project>
